@@ -15,7 +15,7 @@
   <a href="https://www.xing.com/profile/Tobias_Pahnke" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Xing-00FF00?style=for-the-badge&logo=xing&logoColor=white">
   </a>  
- <a href="https://tryhackme.com/profile" target="_blank">
+ <a href="https://tryhackme.com/p/tobiaspahnke" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-Tryhackme-2EC866?style=for-the-badge&logo=tryhackme&logoColor=white">
   </a>
 
