@@ -21,7 +21,7 @@
 
 - 👋 Hi, I’m Tobias
 - 💼 I'm a System Administrator and im focussing on cyber security analysis
-- 💬 Talk to me about freelancing opportunities in cybersecurity, malware analysis and python programming
+- 💬 Talk to me about freelancing opportunities in cybersecurity, malware analysis, python programming and windows defense
 - 👯 I’m looking to collaborate on cybersecurity projects 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
