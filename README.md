@@ -14,13 +14,10 @@
   </a>  
   <a href="https://www.xing.com/profile/Tobias_Pahnke" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Xing-00FF00?style=for-the-badge&logo=xing&logoColor=white">
-  </a>  
- <a href="https://tryhackme.com/p/tobiaspahnke" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Tryhackme-2EC866?style=for-the-badge&logo=tryhackme&logoColor=white">
-  </a>
+  </a> 
 
 - 👋 Hi, I’m Tobias
-- 💼 I'm a System Administrator and im focussing on cyber security analysis
+- 💼 I'm a System Administrator and Cyber Security Student
 - 💬 Talk to me about freelancing opportunities in cybersecurity, malware analysis, python programming and windows defense
 - 👯 I’m looking to collaborate on cybersecurity projects 
 
