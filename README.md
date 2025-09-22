@@ -17,7 +17,7 @@
   </a> 
 
 - 👋 Hi, I’m Tobias
-- 💼 I'm a System Administrator and Cyber Security Student
+- 💼 I'm IT Security Engineer and Cyber Security Student
 - 💬 Talk to me about freelancing opportunities in cybersecurity, malware analysis, python programming and windows defense
 - 👯 I’m looking to collaborate on cybersecurity projects 
 
