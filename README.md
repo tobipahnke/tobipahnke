@@ -9,13 +9,6 @@
    <a href="https://de.linkedin.com/in/tobias-pahnke-513b501a1" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
-   <a href="https://stackoverflow.com/users/19806991/tobias-pahnke" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>  
-  <a href="https://www.xing.com/profile/Tobias_Pahnke" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Xing-00FF00?style=for-the-badge&logo=xing&logoColor=white">
-  </a> 
-
 - 👋 Hi, I’m Tobias
 - 💼 I'm a System Engineer @netgo
 - 💬 Talk to me about freelancing opportunities in cybersecurity and Fortinet Projects
